@@ -1,0 +1,7 @@
+%NProcShared = 8 
+%Chk=micheckpoint.chk 
+#p B3LYP/6-31G(d,p) SP 
+
+ texto_informativo 
+
+0 1 
